@@ -1,0 +1,149 @@
+{
+  "data_painting" : [
+    {
+      "id": "1",
+      "namePainting": "A Noite Estrelada",
+      "originalTittle": "De Sterrennacht",
+      "datePainting": "junho de 1889",
+      "imagePainting": "PAINT_noite_estrelada.jpg",
+      "style": "pós-impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Arte Moderna (MoMA) em Nova Iorque, EUA",
+      "color1": "#b19c2b",
+      "color2": "#6484b6",
+      "color3": "#1c3470",
+      "color4": "#607894",
+      "color5": "#b7c494"
+    },
+    {
+      "id": "2",
+      "namePainting": "Os Girassóis",
+      "originalTittle": "Zonnebloemen",
+      "imagePainting": "PAINT_os_girassois.jpg",
+      "datePainting": "agosto de 1888.",
+      "style": "pós-impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh em Amsterdã, Países Baixos"
+    },
+    {
+      "id": "3",
+      "namePainting": "A Noite Estrelada sobre o Ródano",
+      "originalTittle": "Nuit étoilée sur le Rhône",
+      "datePainting": "setembro de 1888",
+      "imagePainting": "PAINT_noite_estrelada_rodano.jpg",
+      "style": "pós-impressionista",
+      "materials": "inta a óleo sobre tela",
+      "local": "Musée d'Orsay em Paris, França"
+    },
+    {
+      "id": "4",
+      "namePainting": "O Quarto em Arles",
+      "originalTittle": "La Chambre à Arles",
+      "datePainting": "setembro de 1889",
+      "imagePainting": "PAINT_quarto_em_arles.jpg",
+      "style": "pós-impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Orsay em Paris, França"
+    },
+    {
+      "id": "5",
+      "namePainting": "Terraço do Café à Noite",
+      "originalTittle": "Terrasse du Café le Soir",
+      "datePainting": "setembro de 1888",
+      "imagePainting": "PAINT_terraco_cafe.jpg",
+      "style": "pós-impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Kröller-Müller Museum em Otterlo, Países Baixos"
+    },
+    {
+      "id": "6",
+      "namePainting": "Auto-Retrato com Orelha Cortada",
+      "originalTittle": "Autoportrait avec l'oreille bandée",
+      "datePainting": "Janeiro de 1889",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_auto_retrato_orelha_cortada.jpg"
+    },
+    {
+      "id": "7",
+      "namePainting": "A Sede",
+      "originalTittle": "Le Semeur",
+      "datePainting": "1888",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_a_sede.jpg"
+    },
+    {
+      "id": "8",
+      "namePainting": "Campo de Trigo com Corvos",
+      "originalTittle": "Champ de blé aux corbeaux",
+      "datePainting": "Julho de 1890",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_campo_trigo_corvos.jpg"
+    },
+    {
+      "id": "9",
+      "namePainting": "Irises",
+      "originalTittle": "Iris",
+      "datePainting": "Maio de 1889",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_irises.jpg"
+    },
+    {
+      "id": "10",
+      "namePainting": "Retrato do Doutor Gachet",
+      "originalTittle": "Portrait of Dr. Gachet",
+      "datePainting": "Maio de 1890",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_retrato_doutor_gachet.jpg"
+    },
+    {
+      "id": "11",
+      "namePainting": "Autorretrato com Chapéu de Palha",
+      "originalTittle": "Autoportrait avec le chapeau de paille",
+      "datePainting": "Verão de 1887",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_autorretrato_chapeu_palha.jpg"
+    },
+    {
+      "id": "12",
+      "namePainting": "A Vinha Encarnada",
+      "originalTittle": "La Vigne Rouge",
+      "datePainting": "Novembro de 1888",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_vinha_encarnada.jpg"
+    },
+    {
+      "id": "13",
+      "namePainting": "Ponte de Langlois em Arles",
+      "originalTittle": "Langlois Bridge at Arles",
+      "datePainting": "Setembro de 1888",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_ponte_langlois_arles.jpg"
+    },
+    {
+      "id": "14",
+      "namePainting": "Autorretrato com Orelha Cortada e Cachimbo",
+      "originalTittle": "Self-Portrait with Bandaged Ear and Pipe",
+      "datePainting": "Janeiro de 1889",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_autorretrato_orelha_cortada_cachimbo.jpg"
+    },
+    {
+      "id": "15",
+      "namePainting": "O Semeador",
+      "originalTittle": "The Sower",
+      "datePainting": "1888",
+      "style": "Pós-Impressionista",
+      "materials": "Tinta a óleo sobre tela",
+      "imagePainting": "PAINT_o_semeador.jpg"
+    }
+  ]
+}
