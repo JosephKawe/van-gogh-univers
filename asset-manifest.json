@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/van-gogh-universe/static/css/main.ca326330.css",
-    "main.js": "/van-gogh-universe/static/js/main.2501cb86.js",
+    "main.css": "/van-gogh-universe/static/css/main.ff901a30.css",
+    "main.js": "/van-gogh-universe/static/js/main.e7769921.js",
     "static/js/787.679220d7.chunk.js": "/van-gogh-universe/static/js/787.679220d7.chunk.js",
     "static/media/PAINT_ponte_langlois_arles.jpg": "/van-gogh-universe/static/media/PAINT_ponte_langlois_arles.f62a90a39372645c9526.jpg",
     "static/media/PAINT_auto_retrato_orelha_cortada.jpg": "/van-gogh-universe/static/media/PAINT_auto_retrato_orelha_cortada.1694e81c5eb888b983b2.jpg",
@@ -19,6 +19,7 @@
     "static/media/PAINT_vinha_encarnada.jpg": "/van-gogh-universe/static/media/PAINT_vinha_encarnada.0f4514f026ead70d0465.jpg",
     "static/media/PAINT_autorretrato_orelha_cortada_cachimbo.jpg": "/van-gogh-universe/static/media/PAINT_autorretrato_orelha_cortada_cachimbo.64b0d1209db25b636290.jpg",
     "static/media/PAINT_o_semeador.jpg": "/van-gogh-universe/static/media/PAINT_o_semeador.7603e43965fbed231206.jpg",
+    "static/media/PAINT_auto_retrato_chapeu_palha.jpg": "/van-gogh-universe/static/media/PAINT_auto_retrato_chapeu_palha.907cbd20319dff9c4678.jpg",
     "static/media/PAINT_amendoeira_flor.jpg": "/van-gogh-universe/static/media/PAINT_amendoeira_flor.b22f26a8ef4e568157bd.jpg",
     "static/media/PAINT_rua_auvers_chuva.jpg": "/van-gogh-universe/static/media/PAINT_rua_auvers_chuva.5053e4ce7f1c28c427d8.jpg",
     "static/media/PAINT_terraco_cafe.jpg": "/van-gogh-universe/static/media/PAINT_terraco_cafe.2c5f0f90bd74ab45d910.jpg",
@@ -37,14 +38,16 @@
     "static/media/filter (2).png": "/van-gogh-universe/static/media/filter (2).85a7b5bd6a134c1ccdaa.png",
     "static/media/ICON_starry-night.png": "/van-gogh-universe/static/media/ICON_starry-night.baafb37516dc084da815.png",
     "static/media/ICON_contact-form.png": "/van-gogh-universe/static/media/ICON_contact-form.5c61bff9f8d958afb0a1.png",
+    "static/media/ICON_close-hover.png": "/van-gogh-universe/static/media/ICON_close-hover.99a216f63265a20e1edc.png",
+    "static/media/ICON_close.png": "/van-gogh-universe/static/media/ICON_close.b5e7c1b0e19b9e9e4b5a.png",
     "static/media/ICON_two-arrows.png": "/van-gogh-universe/static/media/ICON_two-arrows.48a88ad86403e51e0680.png",
     "index.html": "/van-gogh-universe/index.html",
-    "main.ca326330.css.map": "/van-gogh-universe/static/css/main.ca326330.css.map",
-    "main.2501cb86.js.map": "/van-gogh-universe/static/js/main.2501cb86.js.map",
+    "main.ff901a30.css.map": "/van-gogh-universe/static/css/main.ff901a30.css.map",
+    "main.e7769921.js.map": "/van-gogh-universe/static/js/main.e7769921.js.map",
     "787.679220d7.chunk.js.map": "/van-gogh-universe/static/js/787.679220d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca326330.css",
-    "static/js/main.2501cb86.js"
+    "static/css/main.ff901a30.css",
+    "static/js/main.e7769921.js"
   ]
 }
