@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/van-gogh-universe/static/css/main.ff901a30.css",
-    "main.js": "/van-gogh-universe/static/js/main.e7769921.js",
+    "main.css": "/van-gogh-universe/static/css/main.5fa865bd.css",
+    "main.js": "/van-gogh-universe/static/js/main.3d3f42f5.js",
     "static/js/787.679220d7.chunk.js": "/van-gogh-universe/static/js/787.679220d7.chunk.js",
     "static/media/PAINT_ponte_langlois_arles.jpg": "/van-gogh-universe/static/media/PAINT_ponte_langlois_arles.f62a90a39372645c9526.jpg",
     "static/media/PAINT_auto_retrato_orelha_cortada.jpg": "/van-gogh-universe/static/media/PAINT_auto_retrato_orelha_cortada.1694e81c5eb888b983b2.jpg",
@@ -42,12 +42,12 @@
     "static/media/ICON_close.png": "/van-gogh-universe/static/media/ICON_close.b5e7c1b0e19b9e9e4b5a.png",
     "static/media/ICON_two-arrows.png": "/van-gogh-universe/static/media/ICON_two-arrows.48a88ad86403e51e0680.png",
     "index.html": "/van-gogh-universe/index.html",
-    "main.ff901a30.css.map": "/van-gogh-universe/static/css/main.ff901a30.css.map",
-    "main.e7769921.js.map": "/van-gogh-universe/static/js/main.e7769921.js.map",
+    "main.5fa865bd.css.map": "/van-gogh-universe/static/css/main.5fa865bd.css.map",
+    "main.3d3f42f5.js.map": "/van-gogh-universe/static/js/main.3d3f42f5.js.map",
     "787.679220d7.chunk.js.map": "/van-gogh-universe/static/js/787.679220d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff901a30.css",
-    "static/js/main.e7769921.js"
+    "static/css/main.5fa865bd.css",
+    "static/js/main.3d3f42f5.js"
   ]
 }
