@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/van-gogh-universe/static/css/main.db505cdf.css",
-    "main.js": "/van-gogh-universe/static/js/main.084fd0ef.js",
+    "main.css": "/van-gogh-universe/static/css/main.ca326330.css",
+    "main.js": "/van-gogh-universe/static/js/main.2501cb86.js",
     "static/js/787.679220d7.chunk.js": "/van-gogh-universe/static/js/787.679220d7.chunk.js",
     "static/media/PAINT_ponte_langlois_arles.jpg": "/van-gogh-universe/static/media/PAINT_ponte_langlois_arles.f62a90a39372645c9526.jpg",
     "static/media/PAINT_auto_retrato_orelha_cortada.jpg": "/van-gogh-universe/static/media/PAINT_auto_retrato_orelha_cortada.1694e81c5eb888b983b2.jpg",
@@ -32,19 +32,19 @@
     "static/media/ICON_gallery.png": "/van-gogh-universe/static/media/ICON_gallery.ab7302813372c4dab6d1.png",
     "static/media/ICON_home-hover.png": "/van-gogh-universe/static/media/ICON_home-hover.d48789fbea9ca95dae69.png",
     "static/media/ICON_home.png": "/van-gogh-universe/static/media/ICON_home.a8bfcdcc12c96be04ef9.png",
+    "static/media/ICON_search.png": "/van-gogh-universe/static/media/ICON_search.ed52bb1ddeeaf9b9b972.png",
     "static/media/ICON_starry-night-hover.png": "/van-gogh-universe/static/media/ICON_starry-night-hover.33c2070179bb759fc334.png",
     "static/media/filter (2).png": "/van-gogh-universe/static/media/filter (2).85a7b5bd6a134c1ccdaa.png",
     "static/media/ICON_starry-night.png": "/van-gogh-universe/static/media/ICON_starry-night.baafb37516dc084da815.png",
-    "static/media/close.png": "/van-gogh-universe/static/media/close.4da964cedbde3538e4f6.png",
     "static/media/ICON_contact-form.png": "/van-gogh-universe/static/media/ICON_contact-form.5c61bff9f8d958afb0a1.png",
     "static/media/ICON_two-arrows.png": "/van-gogh-universe/static/media/ICON_two-arrows.48a88ad86403e51e0680.png",
     "index.html": "/van-gogh-universe/index.html",
-    "main.db505cdf.css.map": "/van-gogh-universe/static/css/main.db505cdf.css.map",
-    "main.084fd0ef.js.map": "/van-gogh-universe/static/js/main.084fd0ef.js.map",
+    "main.ca326330.css.map": "/van-gogh-universe/static/css/main.ca326330.css.map",
+    "main.2501cb86.js.map": "/van-gogh-universe/static/js/main.2501cb86.js.map",
     "787.679220d7.chunk.js.map": "/van-gogh-universe/static/js/787.679220d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db505cdf.css",
-    "static/js/main.084fd0ef.js"
+    "static/css/main.ca326330.css",
+    "static/js/main.2501cb86.js"
   ]
 }
