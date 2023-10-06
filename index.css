@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar { 
+    width: 5px; 
+} 
+  
+/* Track */
+::-webkit-scrollbar-track { 
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0.2em 2em rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(1em);
+    -webkit-backdrop-filter: blur(1em);
+} 
+
+/* Handle */
+::-webkit-scrollbar-thumb { 
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0.2em 2em rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(1em);
+    -webkit-backdrop-filter: blur(1em); 
+    
+} 
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover { 
+    background: #555; 
+}
