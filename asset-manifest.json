@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/van-gogh-universe/static/css/main.a3411341.css",
-    "main.js": "/van-gogh-universe/static/js/main.552d3245.js",
+    "main.js": "/van-gogh-universe/static/js/main.96b285ba.js",
     "static/js/787.679220d7.chunk.js": "/van-gogh-universe/static/js/787.679220d7.chunk.js",
     "static/media/PAINT_ponte_langlois_arles.jpg": "/van-gogh-universe/static/media/PAINT_ponte_langlois_arles.910e3243bbe86a77c339.jpg",
     "static/media/PAINT_vaso_quinze_girassois.jpg": "/van-gogh-universe/static/media/PAINT_vaso_quinze_girassois.7245d27caef60ff1bb26.jpg",
@@ -67,11 +67,11 @@
     "index.html": "/van-gogh-universe/index.html",
     "static/media/compressed-images.zip": "/van-gogh-universe/static/media/compressed-images.3d221cf97333893ff0e4.zip",
     "main.a3411341.css.map": "/van-gogh-universe/static/css/main.a3411341.css.map",
-    "main.552d3245.js.map": "/van-gogh-universe/static/js/main.552d3245.js.map",
+    "main.96b285ba.js.map": "/van-gogh-universe/static/js/main.96b285ba.js.map",
     "787.679220d7.chunk.js.map": "/van-gogh-universe/static/js/787.679220d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3411341.css",
-    "static/js/main.552d3245.js"
+    "static/js/main.96b285ba.js"
   ]
 }
